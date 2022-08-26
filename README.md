@@ -1,1 +1,2 @@
-# Build-a-Tribute-Page
+#(Freecodecamp) Build-a-Tribute-Page
+![preview](preview.png)
